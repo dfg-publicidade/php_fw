@@ -2,7 +2,6 @@
     "name": "dfgpublicidade/dfg_fw",
     "description": "Framework DFG for PHP",
     "type": "library",
-    "license": "Lesser GPL 2.1",
     "authors": [
         {
             "name": "DFG Publicidade",
