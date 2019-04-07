@@ -1,12 +1,12 @@
 {
-    "name": "dfgstudio/dfg_fw",
+    "name": "dfgpublicidade/dfg_fw",
     "description": "Framework DFG for PHP",
     "type": "library",
     "license": "Lesser GPL 2.1",
     "authors": [
         {
-            "name": "DFG Studio",
-            "email": "talk@dfgstudio.com.br"
+            "name": "DFG Publicidade",
+            "email": "contato@dfgpublicidade.com.br"
         }
     ],
     "require": {
