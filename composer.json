@@ -1,0 +1,21 @@
+{
+    "name": "dfgstudio/dfg_fw",
+    "description": "Framework DFG for PHP",
+    "type": "library",
+    "license": "Lesser GPL 2.1",
+    "authors": [
+        {
+            "name": "DFG Studio",
+            "email": "talk@dfgstudio.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "doctrine/orm": "2.5.6",
+        "doctrine/annotations": "1.4.*",
+        "doctrine/dbal": "2.5.4",
+        "symfony/yaml": "2.*",
+        "symfony/serializer": "3.*",
+        "phpmailer/phpmailer": "~5.2"
+    }
+}
